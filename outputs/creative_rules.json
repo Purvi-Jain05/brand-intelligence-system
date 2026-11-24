@@ -1,0 +1,161 @@
+{
+  "creative_rules": {
+    "visual_rules": {
+      "color_rules": [
+        {
+          "condition": "primary_colors",
+          "values": [
+            "#FFC107",
+            "#8BC34A"
+          ]
+        },
+        {
+          "condition": "secondary_colors",
+          "values": [
+            "#3F51B5",
+            "#9C27B0"
+          ]
+        },
+        {
+          "condition": "accent_colors",
+          "values": [
+            "#FF9800",
+            "#4CAF50"
+          ]
+        }
+      ],
+      "typography_rules": [
+        {
+          "condition": "typography_patterns",
+          "values": [
+            "Playful Avocado Print"
+          ]
+        }
+      ],
+      "layout_rules": [
+        {
+          "condition": "layout_patterns",
+          "values": [
+            "Easy to use and clean",
+            "Durable and long-lasting"
+          ]
+        }
+      ],
+      "imagery_rules": [
+        {
+          "condition": "imagery_patterns",
+          "values": [
+            "Summer hydration support",
+            "Pet-safe design"
+          ]
+        }
+      ]
+    },
+    "messaging_rules": {
+      "tone_rules": [
+        {
+          "condition": "tone_patterns",
+          "values": [
+            "Friendly",
+            "Informative",
+            "Emotional",
+            "Encouraging",
+            "Caring"
+          ]
+        }
+      ],
+      "copywriting_rules": [
+        {
+          "condition": "core_messages",
+          "values": [
+            "Beat the heat with AvoCool Mat",
+            "Give your pet the gift of cool comfort this summer"
+          ]
+        },
+        {
+          "condition": "value_propositions",
+          "values": [
+            "Provides instant cooling comfort to pets",
+            "Convenient and easy to use"
+          ]
+        }
+      ],
+      "headline_rules": [
+        {
+          "condition": "core_messages",
+          "values": [
+            "Beat the heat with AvoCool Mat",
+            "Give your pet the gift of cool comfort this summer"
+          ]
+        }
+      ],
+      "cta_rules": [
+        {
+          "condition": "cta_design_patterns",
+          "values": [
+            "Buy Now",
+            "Add to Cart"
+          ]
+        }
+      ]
+    },
+    "content_rules": {
+      "storytelling_rules": [
+        {
+          "condition": "storytelling_patterns",
+          "values": [
+            "Love for pets",
+            "Concern for pet's health and well-being",
+            "Desire for a comfortable and happy pet"
+          ]
+        }
+      ],
+      "social_media_rules": [
+        {
+          "condition": "core_messages",
+          "values": [
+            "Beat the heat with AvoCool Mat",
+            "Give your pet the gift of cool comfort this summer"
+          ]
+        }
+      ],
+      "campaign_rules": [
+        {
+          "condition": "strategic_insights",
+          "values": [
+            "Focus on pet care and health",
+            "Emphasize natural and organic products",
+            "Highlight supporting animal welfare"
+          ]
+        }
+      ]
+    },
+    "design_dos": [
+      {
+        "condition": "brand_personality_patterns",
+        "values": [
+          "Caring",
+          "Responsible",
+          "Pet-friendly",
+          "Reliable",
+          "Innovative",
+          "Natural",
+          "Gentle",
+          "Effective"
+        ]
+      }
+    ],
+    "design_donts": [],
+    "content_dos": [
+      {
+        "condition": "strategic_insights",
+        "values": [
+          "Focus on pet care and health",
+          "Emphasize natural and organic products",
+          "Highlight supporting animal welfare"
+        ]
+      }
+    ],
+    "content_donts": []
+  }
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "page_type": "Error Page",
+    "main_message": "Content analysis failed",
+    "products": [],
+    "audience": [],
+    "tone": [],
+    "visual_signals": [],
+    "cta_signals": [],
+    "trust_signals": [],
+    "offers": []
+  },
+  {
+    "page_type": "E-commerce",
+    "main_message": "Beat The Heat with Cool Comfort for Pets",
+    "products": [
+      {
+        "name": "Instant Pressure-Activated Cooling",
+        "features": [
+          "No Electricity Required",
+          "Lightweight & Foldable",
+          "Easy to Clean"
+        ]
+      }
+    ],
+    "audience": [
+      "Pet Owners in India",
+      "Dog and Cat Lovers",
+      "Pet Care Professionals",
+      "Animal Welfare Organizations"
+    ],
+    "tone": [
+      "Friendly",
+      "Informative",
+      "Emotional"
+    ],
+    "visual_signals": [],
+    "cta_signals": [
+      "Buy Now",
+      "Add to Cart"
+    ],
+    "trust_signals": [
+      "Customer Reviews",
+      "5-Star Rating"
+    ],
+    "offers": [
+      "Free Shipping",
+      "Free Return"
+    ]
+  },
+  {
+    "page_type": "E-commerce",
+    "main_message": "Helping pets stay hydrated during hot days with pet-safe and easy-to-use products",
+    "products": [
+      "Freezable Gel Core",
+      "Pet-Safe Design",
+      "Easy Fill & Freeze",
+      "Stable Drinking Bowl",
+      "Summer Hydration Support"
+    ],
+    "audience": [
+      "Pet owners",
+      "Dog and cat owners",
+      "People who care about animal welfare"
+    ],
+    "tone": [
+      "Friendly",
+      "Informative",
+      "Encouraging"
+    ],
+    "visual_signals": [],
+    "cta_signals": [
+      "Add to cart",
+      "Buy now"
+    ],
+    "trust_signals": [
+      "Customer reviews",
+      "Product information",
+      "Description"
+    ],
+    "offers": [
+      "Free shipping on orders above Rs. 999",
+      "Extra Rs. 300 off on orders above Rs. 4999"
+    ]
+  },
+  {
+    "page_type": "E-commerce",
+    "main_message": "Gentle, Long-Lasting Freshness for Dogs & Cats",
+    "products": [
+      "Alcohol-Free Deodorant for Pets"
+    ],
+    "audience": [
+      "Pet owners",
+      "Animal lovers"
+    ],
+    "tone": [
+      "Friendly",
+      "Caring"
+    ],
+    "visual_signals": [],
+    "cta_signals": [
+      "Buy Now",
+      "Add to Cart"
+    ],
+    "trust_signals": [
+      "Customer reviews",
+      "Pet care certifications"
+    ],
+    "offers": [
+      "Free Shipping",
+      "Discounts on bulk orders"
+    ]
+  }
+]

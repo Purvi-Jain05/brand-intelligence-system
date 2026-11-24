@@ -1,0 +1,89 @@
+{
+  "product_dna": {
+    "product_categories": [
+      "Pet Care"
+    ],
+    "core_products": [
+      "AvoCool Mat"
+    ],
+    "product_positioning": [
+      "Premium"
+    ],
+    "common_features": [
+      "Instant Pressure-Activated Cooling",
+      "No Electricity Required",
+      "Lightweight & Foldable",
+      "Easy to Clean",
+      "Freezable gel core",
+      "Pet-safe design",
+      "Easy fill and freeze",
+      "Stable drinking bowl",
+      "Summer hydration support",
+      "Alcohol-Free",
+      "Gentle",
+      "Long-Lasting Freshness"
+    ],
+    "common_benefits": [
+      "Keeps pets comfortably cool without electricity, water, or refrigeration",
+      "Perfect for pets prone to overheating",
+      "Ideal for use at home, in the car, on the balcony, or at pet-friendly events",
+      "Keeps water cooler for longer",
+      "Encourages pets to stay hydrated",
+      "Easy to use and clean",
+      "Durable and long-lasting",
+      "Reduces odour",
+      "Soothes skin",
+      "Provides long-lasting freshness"
+    ],
+    "product_personality": [
+      "Reliable",
+      "Innovative",
+      "Pet-friendly",
+      "Easy to use",
+      "Natural",
+      "Gentle",
+      "Effective"
+    ],
+    "pricing_strategy": {
+      "tier": "Premium",
+      "positioning": "High-end, premium product with unique features and benefits"
+    },
+    "customer_value": {
+      "functional_value": [
+        "Keeps pets comfortably cool",
+        "Perfect for pets prone to overheating",
+        "Ideal for use at home, in the car, on the balcony, or at pet-friendly events"
+      ],
+      "emotional_value": [
+        "Encourages pets to stay hydrated",
+        "Easy to use and clean",
+        "Durable and long-lasting"
+      ],
+      "social_value": [
+        "Reduces odour",
+        "Soothes skin",
+        "Provides long-lasting freshness"
+      ]
+    },
+    "competitive_advantages": [
+      "Instant Pressure-Activated Cooling",
+      "No Electricity Required",
+      "Lightweight & Foldable",
+      "Easy to Clean",
+      "Freezable gel core",
+      "Pet-safe design",
+      "Easy fill and freeze",
+      "Stable drinking bowl",
+      "Summer hydration support",
+      "Alcohol-Free",
+      "Gentle",
+      "Long-Lasting Freshness"
+    ],
+    "purchase_drivers": [
+      "Concern for pet's health and well-being",
+      "Desire for a comfortable and happy pet",
+      "Love for pets",
+      "Desire for a clean and healthy pet"
+    ]
+  }
+}
